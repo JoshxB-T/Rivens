@@ -1,0 +1,8 @@
+itemType:  What type of Riven is it?
+compatibility: Which Weapon is the Riven for?
+rerolled: Has it been rolled or unrolled (true/false)?
+avg: Average value of trades with this Riven Type.
+stddev: The average variation in the prices that the Riven trades for.
+min: Lowest amount of Platinum per trade of this Riven Type.
+max: Highest amount of Platinum per trade of this Riven Type.
+7 fields total
